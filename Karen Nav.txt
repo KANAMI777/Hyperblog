@@ -8,20 +8,15 @@ Hoy hablaremos de su vida y su obra maestra
 
 Master1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Master2
 
 
 =======
 Experimento 1
-<<<<<<< HEAD
->>>>>>> 874070d (Experimento 1)
 
 =======
 Experimento 2
->>>>>>> c4cdaee (Experimento 2)
-=======
+
 Master2
 
 
@@ -29,5 +24,6 @@ Experimento 1
 
 Experimento2
 
->>>>>>> 8d583a4 (experimento 1)
+Incluye ejemplos diversos
+
 Motivación!

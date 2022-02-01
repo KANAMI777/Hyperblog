@@ -8,8 +8,12 @@ Hoy hablaremos de su vida y su obra maestra
 
 Master1
 
+<<<<<<< HEAD
 Master2
 
 
+=======
+Experimento 1
+>>>>>>> 874070d (Experimento 1)
 
 Motivación!

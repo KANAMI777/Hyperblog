@@ -8,7 +8,10 @@ Hoy hablaremos de su vida y su obra maestra
 
 Master1
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7cd7a1 (incluye ejemplos)
 Master2
 
 
@@ -18,7 +21,10 @@ Experimento 1
 =======
 Experimento 2
 
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> f7cd7a1 (incluye ejemplos)
 Master2
 
 
@@ -26,4 +32,9 @@ Experimento 1
 
 Experimento2
 
+<<<<<<< HEAD
+=======
+Incluye ejemplos diversos
+
+>>>>>>> f7cd7a1 (incluye ejemplos)
 Motivación!
